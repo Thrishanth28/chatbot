@@ -4,7 +4,7 @@ A fully enhanced Python rule-based chatbot featuring custom commands, safe math 
 
 ---
 
-# 🟦 VERSION 1 — SHORT README (Quick Overview)
+
 
 PyBot is a feature-rich **rule-based Python chatbot** designed for beginners and developers who want to understand chatbot logic.  
 It supports smart responses, slash commands, a safe calculator, random facts, jokes, quizzes, and chat history saving/loading.
